@@ -1,4 +1,6 @@
 <h1 align="center">Hi There, I'm Hector Bryan Almonte</h1>
+<h2 align="center">Back-end Developer</h2>
+
 
 <h3 align="center">GitHub Statistics</h3>
 
