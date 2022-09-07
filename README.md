@@ -1,4 +1,4 @@
-## **Hi, Im Hector Almonte** :wave:
+<h1>Hi There, I'm Hector Bryan Almonte</h1>
 
 <div align="center">
   <a href="https://github.com/HhAlmonte">
