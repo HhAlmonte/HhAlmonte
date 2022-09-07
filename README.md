@@ -7,9 +7,10 @@
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Asp.Net" height="60" width="70" src="https://www.programandoamedianoche.com/wp-content/uploads/2008/09/asp.net_.logo_.png">
+  <img align="center" alt="Rafa-Asp.Net" height="60" width="70" src="https://ardalis.com/static/2bcf8d1ec45106e529bb3a6176467a31/c5cb2/aspnetcore-logo.png">
   <img align="center" alt="Rafa-Angular" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
-  <img align="center" alt="Rafa-Angular" height="60" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png">
+  <img align="center" alt="Rafa-Angular" height="60" width="65" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png">
+  <img align="center" alt="Rafa-Angular" height="60" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
   
   ##
