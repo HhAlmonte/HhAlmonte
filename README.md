@@ -9,6 +9,7 @@
   <img align="center" alt="Rafa-Csharp" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Asp.Net" height="60" width="70" src="https://www.programandoamedianoche.com/wp-content/uploads/2008/09/asp.net_.logo_.png">
   <img align="center" alt="Rafa-Angular" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
+  <img align="center" alt="Rafa-Angular" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png">
 </div>
   
   ##
