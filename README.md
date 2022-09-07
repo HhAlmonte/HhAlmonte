@@ -7,7 +7,7 @@
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Sql" height="30" width="40" src="https://www.jasoft.org/Blog/image.axd?picture=/2021/localdb/SQL-Server-logo.png">
+  <img align="center" alt="Rafa-Sql" height="60" width="70" src="https://www.jasoft.org/Blog/image.axd?picture=/2021/localdb/SQL-Server-logo.png">
   <img align="center" alt="Rafa-Asp.Net" height="30" width="40" src="https://www.programandoamedianoche.com/wp-content/uploads/2008/09/asp.net_.logo_.png">
   <img align="center" alt="Rafa-Angular" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
 </div>
